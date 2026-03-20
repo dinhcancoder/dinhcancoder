@@ -1,67 +1,91 @@
-<h1 align="center">Hi 👋, I'm kanisdev</h1>
-
-![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
-
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
-
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
 <div align="center">
-  <a target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"  />
+
+# Hi there, I'm Kanisdev 👋
+### Frontend Developer | JavaScript Enthusiast | Building clean and modern web experiences
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%7C+TypeScript+%7C+React;Clean+Code+%7C+Modern+UI+%7C+Real+Projects" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 I’m a web developer focused on **JavaScript ecosystem**
+- ⚛️ I enjoy building products with **React, TypeScript, Redux, Node.js**
+- 🎨 I love creating **clean UI, reusable components, and maintainable code**
+- 🌱 Currently improving my skills in **advanced frontend architecture and real-world development**
+- 🎯 Goal: Become a stronger developer with practical, production-ready skills
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,nuxt,html,css,sass,tailwind,bootstrap,threejs" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,eslint,wordpress" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🧠 What I Focus On
+
+- Building responsive and user-friendly web interfaces
+- Writing clean, scalable, and maintainable JavaScript code
+- Improving UI/UX for real products
+- Learning practical patterns used in professional projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="48" alt="Facebook" />
   </a>
-  <a target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" />
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
-  <a target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"  />
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
-  <a target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
+  <a href="YOUR_YOUTUBE_LINK" target="_blank">
+    <img src="https://img.icons8.com/color/96/youtube-play.png" height="48" alt="YouTube" />
   </a>
-  <a  target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code clean. Build smart. Keep growing.”
+
 </div>
